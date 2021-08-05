@@ -16,5 +16,5 @@ Scrrencast video link:
 Youtube video link:https://www.youtube.com/watch?v=vnWWAVu7DLI
 
 
-MFTF (Magento 2 Functional Testing Framework) for Custom Signup Form:
+MFTF Custom Signup Form:
 https://github.com/Ilasigma/MFTF/tree/main/app/code/Sigma/Customer
